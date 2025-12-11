@@ -1,95 +1,18 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Sumit Raj</h1>
-<h3 align="center">MERN & AI Engineer | Full-Stack Developer | Real-Time Systems | LLM Workflows</h3>
+# 💫 About Me:
+I’m a **MERN stack and AI-focused developer** passionate about building scalable systems, intelligent automation, and real-time platforms.  <br>I focus on performance, architecture, and delivering user-first experiences.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit.raj77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sumit-raj-7134002a3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Cosmos.Uni_verse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumit.raj7a@gmail.com) 
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sumits-Cosmos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sumits-Cosmos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumits-Cosmos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sumits-Cosmos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me  
-I’m a **MERN stack and AI-focused developer** passionate about building scalable systems, intelligent automation, and real-time platforms.  
-I focus on performance, architecture, and delivering user-first experiences.
-
-- ⚡ Improved backend efficiency by **30–45%**
-- 🤖 Built AI/LLM workflows with **60%+ automation improvement**
-- 🗺️ Geospatial search & routing with **40% faster lookups**
-- 🧠 Currently pursuing **B.E. CSE (AIML)** — GPA **8.68**
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-`C` `C++` `Java` `Python` `JavaScript`
-
-### **Frontend**
-`React.js` `Next.js`
-
-### **Backend**
-`Node.js` `Express` `Socket.io`
-
-### **AI & Automation**
-`LangChain.js` `LLM Agents` `VAPI`
-
-### **Databases**
-`MongoDB` `MySQL` `Supabase` `Firebase`
-
-### **DevOps & Deployment**
-`Git` `Docker` `AWS` `Vercel` `Render`
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **NyaySathi — LLM-based Legal Advisor**  
-**React | Node | Socket.io | Supabase | Firebase | LangChain.js**
-
-- Real-time advocate-client chat  
-- 35% faster responses  
-- Improved legal query accuracy  
-🔗 **Live:** https://nyaysathi-vert.vercel.app/
-
----
-
-### 🔹 **Raahi — AI Ride Booking Platform**  
-**React | Node | Socket.io | MongoDB | Google Maps | Leaflet.js**
-
-- Intelligent ride matching  
-- Live tracking + geospatial routing  
-- 50% faster map loads  
-- 30–40% reduced assignment time  
-
----
-
-### 🔹 **Amura — Interactive Event Platform**  
-**React | Supabase | Node | Nodemailer**
-
-- 2× student engagement  
-- 40% faster UI navigation  
-🔗 **Live:** https://amura-ten.vercel.app/
-
----
-
-## 🏆 Achievements  
-- 🥇 **Winner** — IEEE TechAvishkar 2.0 (National Hackathon)  
-- 🏅 **Finalist** — Hack2Skills Cardano Asia 2025 (Top 1000+ Teams)
-
----
-
-## 📚 Education  
-**B.E. Computer Science Engineering (AIML)**  
-RNS Institute of Technology  
-GPA: **8.68**  
-📅 *Expected Graduation: Aug 2027*
-
----
-
-## 🔗 Connect With Me  
-📧 **Email:** sumit.raj7a@gmail.com  
-🌍 **Location:** Bangalore, India  
-🔗 **LinkedIn:** *Add your link here*  
-💻 **GitHub:** *Add your profile link here*  
-
----
-
-## ✨ Closing Note  
-**I build intelligent, scalable systems that reduce latency, automate processes, and create real-world impact.**  
-Let’s collaborate and build something amazing! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
