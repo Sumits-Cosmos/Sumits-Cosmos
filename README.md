@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a **MERN stack and AI-focused developer** passionate about building scalable systems, intelligent automation, and real-time platforms.  <br>I focus on performance, architecture, and delivering user-first experiences.
+I’m a **Fullstack and AI-focused developer** passionate about building scalable systems, intelligent automation, and real-time platforms.  <br>I focus on performance, architecture, and delivering user-first experiences.
 
 
 ## 🌐 Socials:
